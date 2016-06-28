@@ -1,8 +1,9 @@
 #header {  
-    text-align:center;
-    padding:5px;
     background-color:orange;
     color:white;
+    text-align:center;
+    padding:5px;
+    
 }
 #nav {
     line-height:30px;
